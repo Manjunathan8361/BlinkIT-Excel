@@ -3,6 +3,9 @@
 📌 Project Overview
 
 This project is an interactive Sales Analytics Dashboard built in Microsoft Excel to analyze Blinkit’s grocery sales performance across multiple dimensions including:
+## 📊 Dashboard Preview
+
+![Dashboard Overview](Dashboard_overview.png)
 
 Outlet Establishment Year
 
